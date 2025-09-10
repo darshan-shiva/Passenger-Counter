@@ -5,6 +5,7 @@ body{
     display: flex;
     justify-content : center;
     flex-direction : center;
+    align-items : center;
     color: white; 
     text-align: center;
     font-weight: bolder;
@@ -31,4 +32,5 @@ body{
     font-size: 16px;
     border-radius: 50px;
 }
+
 
